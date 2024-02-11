@@ -38,7 +38,7 @@ The different pretrained Layers can be downloaded here
 
 [CA3->CA3-activity3.2%](https://drive.google.com/file/d/1_ogsamCGoIm1-g3sY-CV_pUO3ztWTSsA/view?usp=drive_link)
 
-[CA3->CA3-activity10.0%](https://drive.google.com/file/d/13NmtlUCit8e372Eo6fPOKm7sogt5WWD2/view?usp=drive_link)
+[CA3->CA3-activity20.0%](https://drive.google.com/file/d/13NmtlUCit8e372Eo6fPOKm7sogt5WWD2/view?usp=drive_link)
 
 # Run experiments:
 
