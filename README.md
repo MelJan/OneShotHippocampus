@@ -18,6 +18,24 @@ Pip:
 <code>
 pip install -r requirements.txt </code>(in python2.7 env)
 
+# Pretrained Layers
+
+The different pretrained Layers can be downloaded here
+
+## Small network
+
+https://drive.google.com/file/d/1csN-WFMVURDE87IxpF3amFPPEVCLFQ9E/view?usp=drive_link
+[MNIST-AutoEncoder->EC](https://drive.google.com/file/d/1BI8rTaaL-UA4UlJxP4VquVlzovvWYbjp/view?usp=drive_link)
+[EC->DG](https://drive.google.com/file/d/1csN-WFMVURDE87IxpF3amFPPEVCLFQ9E/view?usp=drive_link)
+[CA3->CA3](https://drive.google.com/file/d/1ODoU8Gh2jgfUZhvR7HGuy_c9A_rli0Nn/view?usp=drive_link)
+
+## Large network 
+
+[MNIST-AutoEncoder->EC](https://drive.google.com/file/d/12c3xmLX7U1ZAyCMSjnhqUi6z0aPMhCLZ/view?usp=drive_link)
+[EC->DG](https://drive.google.com/file/d/1ip0t3z1_YDmnshtKYSFyIPPhpc1F-CwG/view?usp=drive_link)
+[CA3->CA3-activity3.2%](https://drive.google.com/file/d/1_ogsamCGoIm1-g3sY-CV_pUO3ztWTSsA/view?usp=drive_link)
+[CA3->CA3-activity10.0%](https://drive.google.com/file/d/13NmtlUCit8e372Eo6fPOKm7sogt5WWD2/view?usp=drive_link)
+
 # Run experiments:
 
 To run the experiments of the model with and without DG and creating the plots:
