@@ -1,0 +1,3 @@
+CA3_CA3_500_200_0.1_0_1.0_0.1_100_10 filter=lfs diff=lfs merge=lfs -text
+AE_MNIST_220 filter=lfs diff=lfs merge=lfs -text
+AE_MNIST_1100 filter=lfs diff=lfs merge=lfs -text
